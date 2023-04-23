@@ -3,35 +3,35 @@
     {
       "id": "af7c1fe6-d669-414e-b066-e9733f0de7a8",
       "createdAt": "2022-11-27T19:39:02.471Z",
-      "ground": "Canvas",
+      "surface": "Canvas",
       "paint": "Acrylic",
       "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/4x4/Ghovardhan.jpg"
     },
     {
       "id": "08c71152-c552-42e7-b094-f510ff44e9cb",
       "createdAt": "2022-11-27T19:39:02.471Z",
-      "ground": "WoodenBoard",
+      "surface": "WoodenBoard",
       "paint": "Acrylic",
       "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/4x4/Red.jpg"
     },
     {
       "id": "c558a80a-f319-4c10-95d4-4282ef745b4b",
       "createdAt": "2022-11-27T19:39:02.471Z",
-      "ground": "Canvas",
+      "surface": "Canvas",
       "paint": "Acrylic",
       "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/2x4/Aghasura.jpg"
     },
     {
       "id": "1ad1fccc-d279-46a0-8980-1d91afd6ba67",
       "createdAt": "2022-11-27T19:39:02.471Z",
-      "ground": "Canvas",
+      "surface": "Canvas",
       "paint": "Acrylic",
       "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/2x4/Poppies.jpg"
     },
     {
       "id": "5108babc-bf35-44d5-a9ba-de08badfa80a",
       "createdAt": "2022-11-27T19:39:02.471Z",
-      "ground": "Canvas",
+      "surface": "Canvas",
       "paint": "Acrylic",
       "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/2x4/Poppies.jpg"
     }
