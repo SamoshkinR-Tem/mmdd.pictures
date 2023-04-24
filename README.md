@@ -1,2 +1,2 @@
 # mmdd.pictures
-Mukunda Mohini Devi Dasi paintings photos store
+Mukunda Mohini Devi Dasi paintings photo store
