@@ -1,0 +1,18 @@
+{
+  "paintings": [
+    {
+      "id": "af7c1fe6-d669-414e-b066-e9733f0de7a8",
+      "createdAt": "2022-11-27T19:39:02.471Z",
+      "surface": "Canvas",
+      "paint": "Acrylic",
+      "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/4x4/Ghovardhan.jpg"
+    },
+    {
+      "id": "08c71152-c552-42e7-b094-f510ff44e9cb",
+      "createdAt": "2022-11-27T19:39:02.471Z",
+      "surface": "WoodenBoard",
+      "paint": "Acrylic",
+      "image": "https://github.com/SamoshkinR-Tem/mmdd.pictures/blob/master/4x4/Red.jpg"
+    }
+  ]
+}
